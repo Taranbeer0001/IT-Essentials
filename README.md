@@ -1,8 +1,14 @@
 # IT-Essentials
-<h1><b>SDLC</b></h1>
-<br>I have completed SDLC.
-<br><br><br>
-I'm looking forward to complete the LINUX commands and Version Control.
+
+<br>SDLC: Completed basic and agile model.
+<br>
+Version control: Completed Git, Gitlab, Github.
+<br>
+WEB development: Completed HTML, CSS and Javascript.
+<br>
+Linux: Completed half.
+<br>
+Cloud Computing: I'll be doing Cloud Computing after completing Linux.
 
 
 
