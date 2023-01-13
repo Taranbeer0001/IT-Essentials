@@ -8,7 +8,7 @@ WEB development: Completed HTML, CSS and Javascript.
 <br>
 Linux: Completed.
 <br>
-Cloud Computing: I'll be doing Cloud Computing after completing Linux.
+Cloud Computing: Completed AWS, AZUR and working on GCP.
 
 
 
