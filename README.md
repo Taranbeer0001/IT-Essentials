@@ -11,6 +11,6 @@ Linux: Completed.
 Cloud Computing: Completed AWS, AZUR and working on GCP.
 Testing : Completed testing, Manual and Automation testing.
 CI CD : Completed CI-CD and the types of CI-CD.
-Database : On it!
+Database : Not done with it yet, On it!
 
 
