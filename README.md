@@ -14,6 +14,6 @@ Testing : Completed testing, Manual and Automation testing.
 <br>
 CI CD : Completed CI-CD and the types of CI-CD.
 <br>
-Database : Not done with it yet, On it!
+Database : Almost Completed.
 
 
