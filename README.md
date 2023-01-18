@@ -24,6 +24,6 @@ JIRA: Completed.
 <br>
 Confluence & Sharepoint: Completed.
 <br>
-OOPS: ON IT!
+OOPS: Completed all the concepts like Abstraction, Polymorphism, Encapsulation and Inheritance.
 
 
