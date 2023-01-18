@@ -4,6 +4,8 @@
 <br>
 Version control: Completed Git, Gitlab, Github.
 <br>
+TASK: Done with creating a new branch and pull request.
+<br>
 WEB development: Completed HTML, CSS and Javascript.
 <br>
 Linux: Completed.
