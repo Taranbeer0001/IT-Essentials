@@ -10,10 +10,18 @@ Linux: Completed.
 <br>
 Cloud Computing: Completed AWS, AZUR and working on GCP.
 <br>
-Testing : Completed testing, Manual and Automation testing.
+Testing: Completed testing, Manual and Automation testing.
 <br>
-CI CD : Completed CI-CD and the types of CI-CD.
+CI CD: Completed CI-CD and the types of CI-CD.
 <br>
-Database : Almost Completed.
+Database : Completed and performed all the queries.
+<br>
+API: Completed.
+<br>
+JIRA: Completed.
+<br>
+Confluence & Sharepoint: Completed.
+<br>
+OOPS: ON IT!
 
 
